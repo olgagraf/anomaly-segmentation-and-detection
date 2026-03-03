@@ -96,6 +96,12 @@ All hyperparameters, paths, and class definitions are controlled via `config.py`
 
 ------
 
+## Pretrained weights
+
+Saved model weights are provided in `outputs/exp_01/checkpoints/`. Set `SAVED_WEIGHTS` in `config.py` to the checkpoint path to skip training and run evaluation or inference directly.
+
+------
+
 ## Training
 
 Set paths in `config.py`, then run:
