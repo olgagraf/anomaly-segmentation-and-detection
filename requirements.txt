@@ -1,0 +1,12 @@
+# Minimal direct dependencies for this repository (import-based).
+# Keep requirements.txt for exact full environment reproduction.
+
+numpy==1.26.4
+torch==2.0.0+cu117
+torchvision==0.15.0+cu117
+Pillow==11.2.1
+matplotlib==3.10.3
+tqdm==4.67.1
+pandas==2.2.3
+seaborn==0.13.2
+scikit-learn==1.5.2
