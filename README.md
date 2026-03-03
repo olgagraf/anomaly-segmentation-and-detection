@@ -148,7 +148,7 @@ The script:
 
 ![tile_visualization](figures/output.png)
 
-**Figure** above shows an example of per-tile visualization which contains annotated apoptosis. The ground-truth overlay reflects partial annotation: unannotated pixels appear in black. In the prediction, yellow indicates detected OOD pixels. The Maha+ score heatmap shows a notably lower (more negative) score in the OOD region compared to the surrounding ID tissue.
+**Figure** above shows an example of per-tile visualization which contains annotated apoptosis (OOD class). The ground-truth overlay reflects partial annotation: unannotated pixels appear in black. In the prediction, yellow indicates detected OOD pixels. The Maha+ score heatmap shows a notably lower (more negative) score in the OOD region compared to the surrounding ID tissue.
 
 ------
 
