@@ -1,0 +1,19 @@
+============================================================
+p = 0.996
+METHOD: Maha+
+NORMALIZE: True
+STRATEGY: adaptive
+THRESHOLD SPLIT: trainval
+EVAL SPLIT: test
+============================================================
+FNR                                    = 0.15
+FPR                                    = 0.33
+Healthy: Misclass. as ID anomaly       = 0.24
+Healthy: Misclass. as OOD anomaly      = 0.08
+ID-Anomalies: Misclassified            = 5.25
+ID-Anomalies: Misclass. as ID anomaly  = 2.22
+ID-Anomalies: Misclass. as OOD anomaly = 2.86
+ID-Anomalies: Misclass. as normal      = 0.17
+OOD-Anomalies: Misclassified           = 12.62
+OOD-Anomalies: Misclass. as ID anomaly = 12.62
+OOD-Anomalies: Misclass. as normal     = 0.01
