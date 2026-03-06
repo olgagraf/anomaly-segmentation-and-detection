@@ -4,7 +4,7 @@
 numpy==1.26.4
 torch==2.0.0+cu117
 torchvision==0.15.0+cu117
-Pillow==11.2.1
+Pillow==12.1.1
 matplotlib==3.10.3
 tqdm==4.67.1
 pandas==2.2.3
