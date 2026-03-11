@@ -2,7 +2,7 @@
 # Keep requirements.txt for exact full environment reproduction.
 
 numpy==1.26.4
-torch==2.0.0+cu117
+torch==2.8.0
 torchvision==0.15.0+cu117
 Pillow==11.2.1
 matplotlib==3.10.3
